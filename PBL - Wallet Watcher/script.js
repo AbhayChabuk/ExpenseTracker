@@ -1,3 +1,5 @@
+// Here we have added functionality to our project.
+
 const transactions = JSON.parse(localStorage.getItem("transactions")) || [];
 
 const formatter = new Intl.NumberFormat("en-US", {
