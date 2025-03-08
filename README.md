@@ -5,8 +5,8 @@ Wallet Watcher is a simple yet effective expense tracker built using HTML, CSS, 
 
 # 🔹 Features:
 <p>
-✔️ Add Transactions – Easily log expenses and income.<br>
-✔️ Delete Transactions – Remove incorrect entries.<br>
-✔️ Local Storage Support – Transactions remain saved even after refreshing the page.<br>
-✔️ Total Balance Calculation – Displays income, expenses, and overall balance.
+✅ **Add & Delete Transactions** – Manage income and expenses easily.<br>
+📊 **Live Balance Updates** – Shows real-time balance calculations.<br>
+💾 **Local Storage Support** – Your data remains saved even after refreshing.<br>  
+🎨 **Dark Theme** – Minimalist, eye-friendly UI.
 </p>
